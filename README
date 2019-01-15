@@ -1,3 +1,17 @@
+This 4.20 kernel adapted to i9100:
+
+1. Working i9100 device tree file - can run all current mainline kernel
+
+Working with this kernel:
+
+wifi, bt, otg, lcd, emmc, sd, charger, touchscreen
+
+Config - i9100_defconfig
+
+to compile this - use arm-none-eabi toolchain.
+
+
+
 Linux kernel
 ============
 
