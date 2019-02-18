@@ -1,8 +1,8 @@
 This 4.20 kernel adapted to i9100:
 
-1. Working i9100 device tree file - can run all current mainline kernel
+1. Working i9100 device tree file - can run all current mainline kernels
 
-Working with this kernel:
+Working stuff:
 
 wifi, bt, otg, lcd, emmc, sd, charger, touchscreen
 
